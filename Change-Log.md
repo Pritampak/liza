@@ -12,3 +12,4 @@
    - Card game is under pre version with commands(claim,collection,transferc)
    - Added custom modules(plugins) installation with Mongodb support.
    - Session and deployment web has been changed [Secktor Web](https://SecktorBot.herokuapp.com/) explore :P 
+   - Added updater (check all new updates and get updated with your forked repo) in a single command.
