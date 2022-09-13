@@ -1,0 +1,14 @@
+- Published Pre release of Secktor [05-08-2022]
+- Few fixes [08-08-2022]
+- Version 0.0.1 release [15-08-2022]
+- Few fixes [16-08-2022]
+- Version 0.0.2 release [20-08-2022]
+- Some updates [21-08-22]
+- Many updates between [22-08-2022 and 05-09-2022]
+- Version 0.0.3 release [02-09-2022]
+- Some New features [06-09-2022]
+- Version 0.0.4 release [12-09-2022]
+   - Added card game/haigusha(marry to random anime and divorce)
+   - Card game is under pre version with commands(claim,collection,transferc)
+   - Added custom modules(plugins) installation with Mongodb support.
+   - Session and deployment web has been changed [Secktor Web](https://SecktorBot.herokuapp.com/) explore :P 
