@@ -8,8 +8,9 @@
 - Version 0.0.3 release [02-09-2022]
 - Some New features [06-09-2022]
 - Version 0.0.4 release [12-09-2022]
-   - Added card game/haigusha(marry to random anime and divorce)
+   - Added card game and haigusha(marry to random anime and divorce)
    - Card game is under pre version with commands(claim,collection,transferc)
    - Added custom modules(plugins) installation with Mongodb support.
    - Session and deployment web has been changed [Secktor Web](https://SecktorBot.herokuapp.com/) explore :P 
    - Added updater (check all new updates and get updated with your forked repo) in a single command.
+- Fixed Installation Errors.  [14-09-2022]
