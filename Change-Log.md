@@ -14,3 +14,8 @@
    - Session and deployment web has been changed [Secktor Web](https://SecktorBot.herokuapp.com/) explore :P 
    - Added updater (check all new updates and get updated with your forked repo) in a single command.
 - Fixed Installation Errors.  [14-09-2022]
+- NEW BASE [26-09-2022]
+   - Added Warning Command.
+   - New Help Menu Layout.
+   - Added Fancy command.
+   - So many other features,I can't remember.:P
