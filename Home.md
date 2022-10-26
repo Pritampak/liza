@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://citel.vercel.app/">
     <img alt="secktor docs" height="280" src="https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png">
-    <h1 align="center">Secktor🖤</h1>
+    <h1 align="center">Secktor Md Bot</h1>
   </a>
 </p>
 
@@ -11,14 +11,14 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  <a aria-label="Secktor is free to use" href="https://github.com/SecktorBot/Secktor-Md/blob/main/LICENSE" target="_blank">
+  <a aria-label="Secktor Bot is free to use" href="https://github.com/SecktorBot/Secktor-Md/blob/main/LICENSE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
 <p align="center">
-  <a aria-label="Deploy on heroku" href="https://www.heroku.com/deploy/?template=https://github.com/SamPandey001/Secktor-Md"><b>Deploy on heroku</b></a>
+  <a aria-label="Deploy Secktor Md on heroku" href="https://www.heroku.com/deploy/?template=https://github.com/SamPandey001/Secktor-Md"><b>Deploy on heroku</b></a>
  |
-  <a aria-label="secktor documentation" href="https://citel.vercel.app">Read the Documentation 📚</a>
+  <a aria-label="secktor md documentation" href="https://citel.vercel.app">Read the Documentation of Secktor 📚</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
 
-  Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use.
+  Introducing Secktor Md bot,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use.
 
 ## 📚 Documentation
 
@@ -43,7 +43,7 @@
 <p>
       
      Volla,Just have a look on blew lines.
-     You'll get why Secktor 🖤 is said to be an Advanced Bot
+     You'll get why Secktor Md 🖤 is said to be an Advanced Bot
   -   First Bot which provides multiple themes  in one bot (like multiple characters in one bot)
   -  First Whatsapp Bot with `Auto Nsfw detection with percentage`
   -  First whatsapp bot with `NLP AI`
@@ -78,7 +78,7 @@
 
 ## ⬇️ Installation 
 
-<p>Learn How to Deploy Secktor Userbot <a aria-label="secktor documentation" href="https://citel.vercel.app">in our official docs!</a></p>
+<p>Learn How to Deploy Secktor Md Userbot <a aria-label="secktor documentation" href="https://citel.vercel.app">in our official docs!</a></p>
 
 - [Heroku](https://citel.vercel.app/tutorial/heroku/)
 - [Macos](https://citel.vercel.app/tutorial/macos/)
