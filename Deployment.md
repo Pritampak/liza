@@ -6,7 +6,7 @@
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4.  Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com) for more instructions check yt video [Youtube Video](https://youtu.be/4u0uv3IiAAc).
 5. Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)
-6.  <a href="https://secktorbot.tech/deploy">
+6.  <a href="https://secktorbot.tech/heroku">
     <img alt="DEPLOY on Heroku" height="40" src="https://www.herokucdn.com/deploy/button.svg">
   </a>
   
