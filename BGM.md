@@ -3,7 +3,7 @@
 ---
 
 - It'll send specific song at specific word.
-- You have to custmise it by yourself.
+- You have to customise it by yourself.
 - Install BGM plugin.
 
 ---
