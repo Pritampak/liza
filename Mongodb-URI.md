@@ -3,10 +3,16 @@
 ---
 1. Create an account at [Clever Cloud](https://api.clever-cloud.com/v2/session/login)
 2. Click at your *profile and tap on create then create add-on*
-3. Choose MongoDB 
-4. Choose ***First Shared Mongodb.*** 
-5. Now tap on ***Add-On Dashboard*** and scroll.
-6. Tap on lock and ***copy it.***
+<p align="center">  
+  <a href="https://citel.vercel.app/">
+    <img alt="secktor docs" height="300" src="https://studio3t.com/wp-content/uploads/2019/01/clever-cloud-mongodb-add-on-1024x657.png">
+    <h1 align="center">Choose MongoDB </h1>
+  </a>
+</p>
+
+3. Choose ***First Shared Mongodb.*** 
+4. Now tap on ***Add-On Dashboard*** and scroll.
+5. Tap on lock and ***copy it.***
 ---
 
 # Getting Mongodb URI from Railway.
