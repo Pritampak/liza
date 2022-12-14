@@ -1,6 +1,7 @@
 ---
 # Getting Mongodb URI from Clever Cloud.
 ---
+  [Video Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo) to get uri within 2 min.
 1. Create an account at [Clever Cloud](https://api.clever-cloud.com/v2/session/login)
 2. Click at your *profile and tap on create then create add-on*
 <p align="center">  
