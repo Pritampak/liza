@@ -2,7 +2,7 @@
 
 1. Create an account at [MOGENIOUS](mogenius.com)
 2. Create a cloud-space and give it a name
-3. Choose deploy from container and pull image name `quay.io/sampandey001/koyeb`
+3. Choose deploy from container and put image name `quay.io/sampandey001/koyeb`
 4. Increase all limits
 5. Create that service
 6. Fill vars from env vars
